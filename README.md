@@ -1,11 +1,24 @@
 # lab-06-back-end
-# Project Name
+# City Explorer Back-End
 
 **Author**: [Manish](https://github.com/jManij) and [BomiBear](https://github.com/bomibear)
 **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
 
+**Time Estimates**:
+Number and name of feature: Location and Weather
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 9.30 am
+
+Finish time: 1.30 pm
+
+Actual time needed to complete: 3 hours
+
 ## Overview
-This application will show an assortment of data for a location.
+<!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for this class. (i.e. What's your problem domain?) -->
+This application will serve as a backend to user requests on exploring city
+
 
 ## Getting Started
 In order to run this locally, follow these steps after cloning the repo:
@@ -21,7 +34,9 @@ Head over to Google and grab a Google Maps API Key.  Enable the Google Maps Stat
 This application currently runs with provided JSON data that is stored in the data folder.  A Google API key is used for the front end portal. The server is hosted on Heroku
 
 ## Change Log
-07-09-2019 1:59pm - Application now has a fully-functional express server, with a GET route for the location resource. The information for Lynnwood WA will be displayed along with the 8 day weather forecast.
+<!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an examples:
+
+07-09-2019 - Application now has a fully-functional express server, with a GET route for the location resource.-->
 
 ## Credits and Collaborations
 [Manish](https://github.com/jManij) and [BomiBear](https://github.com/bomibear) worked on the first day of this project.
